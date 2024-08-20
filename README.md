@@ -5,7 +5,7 @@
 - 📫 Reach me [here](https://discord.com/invite/vS28BFPysH).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I starter learning coding when I was hacking on roblox games
-- ⚠️ I am not encouraging hackign in any type, it's illegal and can lead to 20 years in prison, make sure you read our [Tearms Of Condition berofre](https://github.com/KidzOfficial/Terms-Of-Conditions/blob/main/Terms.md) using any of our tool.
+- ⚠️ I am not encouraging hackign in any type, it's illegal and can lead to 20 years in prison, make sure you read our [Tearms and Condition](https://github.com/KidzOfficial/Terms-Of-Conditions/blob/main/Terms.md) before using any of our tool.
 
 <!---
 KidzOfficial/KidzOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
